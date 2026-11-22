@@ -1,24 +1,51 @@
-# My Portfolio
+# Sagar Swain — Portfolio
 
-A personal portfolio website showcasing my projects, skills, and experience.
+A modern personal portfolio website showcasing my skills, projects, education, experience, and contact information.
+
+**Repository:** https://github.com/Sagarswain1999/my-portfolio
+
+## Live Preview
+
+This project can be deployed through Vercel or any modern static hosting platform.
+
+## Features
+
+- Responsive portfolio design
+- Dedicated sections for:
+  - Introduction
+  - Skills
+  - Experience
+  - Education
+  - Projects
+  - Contact
+- Downloadable resume
+- Animated components and UI elements
+- Tailwind CSS styling
+- React Router-based navigation
+- Reusable UI components
 
 ## Tech Stack
 
-- JavaScript
-- CSS
-- HTML
+- React 18
+- Vite
+- React Router
+- Tailwind CSS
+- Framer Motion
+- Radix UI
+- Lucide React
+- ESLint
 
 ## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sagarswain1999/my-portfolio.git
-   ```
-2. Open `index.html` in your browser, or serve the project locally:
-   ```bash
-   npx serve .
-   ```
+### Prerequisites
 
-## Deployment
+- Node.js 18 or newer
+- npm
 
-This portfolio can be deployed to GitHub Pages or any static website hosting provider.
+### Installation
+
+```bash
+git clone https://github.com/Sagarswain1999/my-portfolio.git
+cd my-portfolio
+npm install
+```
